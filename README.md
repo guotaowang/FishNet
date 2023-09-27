@@ -1,5 +1,5 @@
 ### FishNet
-<div align=center><img width="600" height="400" src="https://github.com/guotaowang/FishNet/tree/main/Fig/Net.png"/></div>
+<div align=center><img width="600" height="400" src="https://github.com/guotaowang/FishNet/tree/main/Fig/Net.gif"/></div>
 <p align="center">
 Fig. The motivation of the newly proposed model.   
 Subfigures A and B illustrate the “fixation shifting” phenomenon — very common in our set.   
