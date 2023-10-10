@@ -1,5 +1,5 @@
 ### FishNet   
-<div align=center><img width="1000" height="500" src="https://github.com/guotaowang/FishNet/blob/main/Fig/Net.gif"/></div>
+<div align=center><img width="1000" height="300" src="https://github.com/guotaowang/FishNet/blob/main/Fig/Net.gif"/></div>
 <p align="center">
  Fig. The detailed network architecture of our Fixation Shifting Network (FishNet). Our FishNet has three major components. Component A
 focuses on performing ERP-based global feature embedding to achieve panoptic perception and avoid visual distortion. B catches fixation shifting in
