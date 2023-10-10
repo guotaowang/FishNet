@@ -7,9 +7,9 @@ PanopticVideo-300 by refocusing the network to avoid the compression problem of 
 of and learns the fixation shifting behind mechanism to ensure that the network is sensitive to fixation shifting.  </p>     
 
   * 1) The **Training** Process    
-     ```Python train.py --- Train=True```  
+     ```Python train.py```  
   * 2) The **Inference** Process    
-     ```Python test.py --- Test=True```  
+     ```Python test.py```  
   * 3) The **Model Weight**   
      Model.pt (97.9MB)
   * 4) Results  
