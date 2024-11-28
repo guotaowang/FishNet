@@ -25,7 +25,7 @@
 The existing HMD-based fixation collection method for panoptic data has a critical limitation --- **blind zoom**, results in the collected fixations being insufficient to train deep models to accurately predict which regions in a given panoptic are most important.   
 
 ## News :newspaper:
-* **`Nov 29, 2024`:**  We uploaded the [FishNet]() model.
+* **`Nov 29, 2024`:**  We uploaded the [FishNet]() model weight.
 * **`Nov 23, 2024`:** Our WinDB is now officially released [online]() on TPAMI journal.
 * **`Nov 27, 2024`:** We released and uploaded the Chinese version of our paper to my [Baidu Netdisk]().
 * **`Mar 7, 2024`:**  We released FishNet codes, [Baidu Netdisk]().
