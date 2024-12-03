@@ -16,25 +16,6 @@
 
    
 
-📄 [**Arxiv**](https://arxiv.org/pdf/2305.13901) | 🌐 [**中文**]()
-
-<div align="center">
-  <img width="1000" height="210" src="https://github.com/guotaowang/WinDB/blob/main/Figs/1732611209391.gif"/>
-</div>
-
-The existing HMD-based fixation collection method for panoptic data has a critical limitation --- **blind zoom**, results in the collected fixations being insufficient to train deep models to accurately predict which regions in a given panoptic are most important.   
-
-## News :newspaper:
-* **`Nov 29, 2024`:**  We uploaded the [FishNet]() model weight.
-* **`Nov 23, 2024`:** Our WinDB is now officially released [online]() on TPAMI journal.
-* **`Nov 27, 2024`:** We released and uploaded the Chinese version of our paper to my [Baidu Netdisk]().
-* **`Mar 7, 2024`:**  We released FishNet codes, [Baidu Netdisk]().
-* **`Mar 7, 2024`:**  We released PanopticVideo-300 dataset, [Baidu Netdisk]().
-* **`Sep 27, 2023`:**  We released WinDB codes, [Baidu Netdisk]().
-* **`May 23, 2023`:**  We released our paper on [arXiv](https://arxiv.org/abs/2305.13901).
-
----
-
 ## 🎣 FishNet Architecture  
 
 <div align="center">
@@ -66,7 +47,7 @@ The existing HMD-based fixation collection method for panoptic data has a critic
    ```
 
 3. **Model Weight**  
-   - [Model.pt](https://pan.baidu.com/s/1LeiX-p9YsAhrqTd2jq0Dfw) (97.9 MB) 
+   - Model_best.pth [Baidu Netdisk](https://pan.baidu.com/s/16Q5aFhYVGu81Ig5wnv4j9A?pwd=48a5), [Google Netdisk](https://drive.google.com/file/d/1M78YHnyVDdvFh1bjJxAaaerhZmovujfS/view?usp=sharing) (97.9 MB) 
 
 4. **Results**  
    - Results are stored in the output directory.
